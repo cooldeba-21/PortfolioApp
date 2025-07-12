@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Debashis Portfolio</string>
+    <string name="about_title">About</string>
+    <string name="skills_title">Skills</string>
+    <string name="projects_title">Projects</string>
+    <string name="contact_title">Contact</string>
+</resources>
