@@ -17,16 +17,6 @@ A modern personal portfolio Android app built using **Jetpack Compose**, showcas
 
 ---
 
-## 🖼️ Screenshots
-
-| About Screen | Projects | Skills | Contact |
-|--------------|----------|--------|---------|
-| ![About](screenshots/about.png) | ![Projects](screenshots/projects.png) | ![Skills](screenshots/skills.png) | ![Contact](screenshots/contact.png) |
-
-> 💡 Add screenshots in `screenshots/` directory in your repo for above preview.
-
----
-
 ## 📂 Project Structure
 
 app/
@@ -47,10 +37,6 @@ app/
 ├── mipmap/
 ├── values/
 └── xml/
-
-| About | Projects | Skills | Contact |
-|-------|----------|--------|---------|
-| ![About](screenshots/about.png) | ![Projects](screenshots/projects.png) | ![Skills](screenshots/skills.png) | ![Contact](screenshots/contact.png) |
 
 ---
 
@@ -87,14 +73,12 @@ Add your own color theme in ui.theme/Color.kt.
 🙋‍♂️ About Me
 Debashis Mohapatra
 Sophomore @ NIT Rourkela | B.Tech in EE
-🔧 Electronics | IoT | Frontend | PCB | UI/UX | ESP32
+🔧 Electronics | IoT | Frontend | PCB | UI/UX | Embedded Systems
 
-📫 Contact
-📧 Email: debashis.mohapatra@email.com
+📫 Contact:
 
-💼 LinkedIn: linkedin.com/in/debashis-mohapatra
-
-💻 GitHub: github.com/debashis-mohapatra
+📧 Email: debashismohapatra8260@gmail.com
+💻 GitHub: github.com/cooldeba-21
 
 🪪 License
 This project is licensed under the MIT License.
